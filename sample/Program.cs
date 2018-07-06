@@ -12,6 +12,10 @@ namespace sample
         {
            
         }
+        public void add()
+        {
+            //Added add method
+        }
 
     }
 }
