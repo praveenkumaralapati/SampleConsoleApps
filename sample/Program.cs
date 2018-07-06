@@ -20,5 +20,9 @@ namespace sample
         {
             //Added Subtract method
         }
+        public void multiply()
+        {
+
+        }
     }
 }
