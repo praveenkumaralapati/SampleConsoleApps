@@ -24,5 +24,10 @@ namespace sample
         {
 
         }
+        public void calculator()
+        {
+            
+                
+        }
     }
 }
