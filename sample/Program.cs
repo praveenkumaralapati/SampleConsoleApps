@@ -16,6 +16,9 @@ namespace sample
         {
             //Added add method
         }
-
+        public void subtract()
+        {
+            //Added Subtract method
+        }
     }
 }
